@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmiao\\source\\repos\\mmiao.github\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6675CE80-4599-42FB-92FB-DAEAFD793D2F}|TestSolutionLibrary\\TestSolutionLibrary.csproj|c:\\users\\mmiao\\source\\repos\\mmiao.github\\testsolutionlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6675CE80-4599-42FB-92FB-DAEAFD793D2F}|TestSolutionLibrary\\TestSolutionLibrary.csproj|solutionrelative:testsolutionlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mmiao\\source\\repos\\mmiao.github\\TestSolutionLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "TestSolutionLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\mmiao\\source\\repos\\mmiao.github\\TestSolutionLibrary\\Class1.cs",
+              "RelativeToolTip": "TestSolutionLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:04:34.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
